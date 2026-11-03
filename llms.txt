@@ -1,0 +1,26 @@
+# VisiFlora
+
+> VisiFlora is a Eye Health & Vision Wellness Supplement. VisiFlora is an eye wellness supplement built around a simple daily habit: supporting healthy vision and everyday eye care without a complicated routine. It is aimed at adults who spend long hours looking at screens, reading, or driving and want a convenient way to stay consistent with their eye health. Rather than a harsh or clinical-feeling regimen, VisiFlora is positioned as a straightforward, easy-to-take addition to your normal day — one that complements good habits like regular eye breaks, proper lighting and routine eye exams.
+
+## Pages
+- [Home — overview, pricing and FAQ](https://visiflora.onrender.com/)
+- [What VisiFlora is](https://visiflora.onrender.com/what-is-product.html)
+- [How VisiFlora works](https://visiflora.onrender.com/how-it-works.html)
+- [VisiFlora ingredients, explained individually](https://visiflora.onrender.com/ingredients.html)
+- [VisiFlora benefits](https://visiflora.onrender.com/benefits.html)
+- [VisiFlora customer reviews](https://visiflora.onrender.com/reviews.html)
+- [VisiFlora frequently asked questions](https://visiflora.onrender.com/faq.html)
+
+## Blog
+- [What To Know Before Trying VisiFlora](https://visiflora.onrender.com/blog/what-to-know-before-trying.html): A clear, honest look at VisiFlora — what it contains, how it is used, what it costs, and the guarantee behind it — before you decide to order.
+- [How To Read A Supplement Label](https://visiflora.onrender.com/blog/how-to-read-a-supplement-label.html): Serving size, proprietary blends and other ingredients explained — using VisiFlora's own label as a real example of what to look for.
+- [VisiFlora: An Honest Review](https://visiflora.onrender.com/blog/visiflora-honest-review.html): An honest look at VisiFlora — what it claims to do, what it actually contains, what it costs, and who it is realistically a good fit for.
+- [Vitamin A (as beta-carotene) vs Vitamin C: What Each Does In VisiFlora](https://visiflora.onrender.com/blog/vitamin-a-as-beta-carotene-vs-vitamin-c.html): Vitamin A (as beta-carotene) and Vitamin C are both in VisiFlora but play different roles — here is what each one actually does in the formula.
+- [Daily Habits That Complement VisiFlora](https://visiflora.onrender.com/blog/daily-habits-that-complement-it.html): Simple daily habits — hydration, timing, consistency — that pair well with VisiFlora as part of a eye health & vision wellness routine.
+- [VisiFlora FAQ: Dosage, Timing, Who Should Skip It](https://visiflora.onrender.com/blog/visiflora-faq.html): Common questions about VisiFlora — dosage, timing, the guarantee, and who should skip it — answered directly.
+- [Terms of Use](https://visiflora.onrender.com/terms.html)
+- [Privacy Policy](https://visiflora.onrender.com/privacy-policy.html)
+- [Disclaimer](https://visiflora.onrender.com/disclaimer.html)
+- [Refund Policy](https://visiflora.onrender.com/refund-policy.html)
+- [About Us](https://visiflora.onrender.com/about.html)
+- [Contact Us](https://visiflora.onrender.com/contact.html)
